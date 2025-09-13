@@ -24,4 +24,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+I am a Research Associate at the Human Language Technology Center of Excellence (HLTCOE), Johns Hopkins University, with research interests in synthetic speech detection, speech generation, and anonymization. I received my M.S. in Computer Science from Johns Hopkins in 2024.
