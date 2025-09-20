@@ -410,28 +410,6 @@ ninja.data = [{
             window.location.href = "/sample-posts/2015/10/20/math.html";
           
         },
-      },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "an example of a blog post with some code",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/sample-posts/2015/07/15/code.html";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/sample-posts/2015/05/15/images.html";
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
