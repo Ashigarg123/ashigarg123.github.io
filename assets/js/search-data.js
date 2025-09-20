@@ -311,6 +311,17 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
+      },{id: "post-build-a-passwordless-authentication-system-using-django-twilio-verify-and-sendgrid",
+        
+          title: 'Build a Passwordless Authentication System Using Django, Twilio Verify, and SendGrid <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A step-by-step tutorial on implementing a passwordless authentication system in Django using Twilio Verify and SendGrid.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.twilio.com/en-us/blog/developers/community/passwordless-authentication-system-django-twilio-verify-sendgrid", "_blank");
+          
+        },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
         
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -331,6 +342,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/assets/pdf/example_pdf.pdf";
+          
+        },
+      },{id: "post-ash56sciencefreaks-my-hashnode-blog",
+        
+          title: 'Ash56ScienceFreaks: My Hashnode Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A collection of my science and tech blog posts on Hashnode under the alias Ash56ScienceFreaks.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://ash56sciencefreaks.hashnode.dev", "_blank");
           
         },
       },{id: "post-a-post-with-diagrams",
