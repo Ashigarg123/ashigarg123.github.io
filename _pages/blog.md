@@ -103,6 +103,12 @@ pagination:
 
   <ul class="post-list">
 
+{% if page.pagination.enabled %}
+  {% assign postlist = paginator.posts | where_exp: "post", "post.categories contains 'external'" %}
+{% else %}
+  {% assign postlist = site.posts | where_exp: "post", "post.categories contains 'external'" %}
+{% endif %}
+
     {% if page.pagination.enabled %}
       {% assign postlist = paginator.posts %}
     {% else %}
