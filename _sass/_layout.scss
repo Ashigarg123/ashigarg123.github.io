@@ -44,6 +44,13 @@ body.sticky-bottom-footer {
   max-width: 250px; // Optional: constrain image width
 }
 
+.profile.float-right {
+  float: left;
+  margin-right: 1.5rem; // Reduce this if there's still too much space
+  margin-left: 0 !important;
+  max-width: 250px; // Optional: constrain image width
+}
+
 
 // TODO: redefine content layout.
 
