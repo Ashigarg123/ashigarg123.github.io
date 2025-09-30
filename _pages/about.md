@@ -7,7 +7,7 @@ subtitle: "Johns Hopkins University"
 
 profile:
   align: left
-  image: PXL_20250329_150639893.PORTRAIT_Original.jpg
+  image: ashi.jpg
   image_circular: True # crops the image to make it circular
 
  
