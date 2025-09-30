@@ -7,7 +7,7 @@ subtitle: "Johns Hopkins University"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ashi.JPG
   image_circular: True # crops the image to make it circular
 
  
